@@ -30,7 +30,6 @@ function App() {
             </Col>
           </Row>
           <Button variant='success' type ='submit'>Submit</Button>
-
         </Form>
         <Card className='mb-3' style={{color:"#000"}}>
 
